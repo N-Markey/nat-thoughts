@@ -1,5 +1,3 @@
 ---
-title: Nat's blog
+title: Some things I have written
 ---
-
-Welcome ... **to the madhouse**
