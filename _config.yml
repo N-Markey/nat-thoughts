@@ -1,6 +1,11 @@
 theme: minima
 title: Nat thoughts
 author: Nat Markey
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 minima:
   social_links:
     - title: GitHub profile
