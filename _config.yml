@@ -1,7 +1,13 @@
 theme: minima
 title: Nat thoughts
 author: Nat Markey
-description: [N-Markey][github.com/N-Markey]
+minima:
+  social_links:
+    - title: GitHub profile
+      icon: github
+      url: "https://github.com/n-markey"
+  skin: solarized
+
 
 
 
